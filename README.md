@@ -60,3 +60,7 @@ The soil moisture sensor was calibrated experimentally using dry and wet soil.
 - Dry soil: approximately 935
 - Wet soil: approximately 273
 Based on these measurements, 600 and 450 were selected as the control thresholds for the automatic watering system.
+
+## Project Setup
+The completed prototype of teh smart plant watering system is shown below.
+(project-setup.jpg)
