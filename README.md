@@ -63,5 +63,4 @@ Based on these measurements, 600 and 450 were selected as the control thresholds
 
 ## Project Setup
 The completed prototype of the smart plant watering system is shown below.
-![Smart Plant Watering System]
-(project-setup.jpg)
+![Smart Plant Watering System](project-setup.jpg)
