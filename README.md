@@ -65,6 +65,8 @@ Based on these measurements, 600 and 450 were selected as the control thresholds
 The completed prototype of the smart plant watering system is shown below.
 ![Smart Plant Watering System](project-setup.jpg)
 
-## Demo
-A short demonstration of the automatic watering system can be viewed below.
-[Watch the demo video](smart-plant-watering-demo-v2.mp4)
+
+
+https://github.com/user-attachments/assets/f706a4b0-563b-4ef7-b70c-1b52898d6efc
+
+
