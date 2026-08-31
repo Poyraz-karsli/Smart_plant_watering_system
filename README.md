@@ -69,4 +69,12 @@ The completed prototype of the smart plant watering system is shown below.
 
 https://github.com/user-attachments/assets/f706a4b0-563b-4ef7-b70c-1b52898d6efc
 
+## Results
 
+The system successfully monitors soil moisture and automatically controls the water pump based on the measured moisture level. The LCD provides real-time feedback about the sensor value and pump status.
+
+## Future Improvements
+- Display soil moisture as a percentage
+- Add temperature and humidity monitoring
+- Add Wi-Fi or mobile monitoring
+- Design a more compact and permanent circuit
